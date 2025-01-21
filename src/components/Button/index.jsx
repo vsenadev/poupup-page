@@ -13,7 +13,7 @@ export default function Button({ description }) {
 
     return (
         <div className={styles.container}>
-            <button className={styles.container_button}>{desc}</button>
+            <button className={styles.container_button}>{desc | "Descrição não disponível"}</button>
         </div>
     );
 }
