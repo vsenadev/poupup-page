@@ -10,10 +10,16 @@
   &_button
     font-family: vars.$font
     height: 3rem
-    width: 25%
+    width: 30%
     background-color: vars.$green
     color: vars.$white
     border-style: none
     border-radius: 6px
     font-weight: 700
     cursor: pointer
+
+    @media (max-width: 720px)
+      width: 90%
+
+  &_button:hover
+    background-color: vars.$light-green
