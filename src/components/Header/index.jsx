@@ -10,17 +10,19 @@ export default function Header(){
     return (
         <div className={styles.container}>
             <div className={styles.container__header}>
-                <div className={styles.container__header_content}>
-                    <div className={styles.container__header_content_image}>
-                        <Image
-                            src={PoupUpLogo}
-                            alt='PoupUp Logo'
-                            priority={true}
-                        />
-                    </div>
+                <div className={styles.container__header_image}>
+                    <Image
+                        src={PoupUpLogo}
+                        alt='PoupUp Logo'
+                        priority={true}
+                    />
+                </div>
+                <div className={styles.container__header_title}>
                     <Title
                         title={'header.title'}
                     />
+                </div>
+                <div className={styles.container__header_button}>
                     <Button
                         description={'header.button'}
                     />
