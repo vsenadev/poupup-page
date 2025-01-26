@@ -1,10 +1,10 @@
 'use client';
 
-import styles from './title.module.sass';
+import styles from './Title.module.sass';
 import { useGlobalState } from "@/context/globalState";
 import { getNestedValue } from "@/functions/home.functions";
 
-export default function Title({ title }) {
+export default function Title({ title, color, fontSize }) {
     const { language, text } = useGlobalState();
 
     const heading = title && text?.[language]
@@ -13,7 +13,7 @@ export default function Title({ title }) {
 
     return (
         <div className={styles.container}>
-            <h1 className={styles.container__title}>{heading}</h1>
+            <h1 style={{color: color, fontSize: fontSize}} className={styles.container__title}>{heading}</h1>
         </div>
     );
 }

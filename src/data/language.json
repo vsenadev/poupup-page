@@ -3,18 +3,109 @@
     "header": {
       "title": "Simplifique suas finanças e alcance suas metas com inteligência!",
       "button": "Descubra suas finanças com facilidade – é grátis!"
+    },
+    "benefits": {
+      "title": "Principais Benefícios",
+      "paragraph": "Gerencie suas finanças de forma fácil, inteligente e segura. Descubra tudo o que nossa ferramenta pode fazer por você.",
+      "cards": {
+        "planning": {
+          "title": "Planejamento inteligente",
+          "description": "Metas personalizadas e acompanhamento em tempo real."
+        },
+        "control": {
+          "title": "Controle de despesas",
+          "description": "Categorize gastos e receba alertas para evitar excessos."
+        },
+        "investment": {
+          "title": "Investimentos integrados",
+          "description": "Informe seus investimentos e tenha instantâneamente atualizações."
+        },
+        "budget": {
+          "title": "Orçamento inteligente",
+          "description": "Planeje suas finanças com ajustes automáticos baseados em IA."
+        },
+        "gaming": {
+          "title": "Gamificação",
+          "description": "Transforme suas metas financeiras em desafios e conquiste recompensas."
+        },
+        "alert": {
+          "title": "Notificação e alertas",
+          "description": "Nunca mais perca um prazo ou ultrapasse seus limites de gastos."
+        }
+      }
     }
   },
   "en": {
     "header": {
       "title": "Simplify your finances and achieve your goals with intelligence!",
-      "button": "Descubre tus finanzas con facilidad – ¡es gratis!"
+      "button": "Discover your finances with ease – it's free!"
+    },
+    "benefits": {
+      "title": "Key Benefits",
+      "paragraph": "Manage your finances easily, intelligently, and securely. Discover everything our tool can do for you.",
+      "cards": {
+        "planning": {
+          "title": "Smart planning",
+          "description": "Personalized goals and real-time tracking."
+        },
+        "control": {
+          "title": "Expense tracking",
+          "description": "Categorize expenses and receive alerts to avoid overspending."
+        },
+        "investment": {
+          "title": "Integrated investments",
+          "description": "Report your investments and get instant updates."
+        },
+        "budget": {
+          "title": "Smart budget",
+          "description": "Plan your finances with AI-based automatic adjustments."
+        },
+        "gaming": {
+          "title": "Gamification",
+          "description": "Turn your financial goals into challenges and earn rewards."
+        },
+        "alert": {
+          "title": "Notifications and alerts",
+          "description": "Never miss a deadline or exceed your spending limits."
+        }
+
+      }
     }
   },
   "es": {
     "header": {
       "title": "¡Simplifica tus finanzas y alcanza tus metas con inteligencia!",
-      "button": "Discover your finances with ease – it's free!"
+      "button": "Descubre tus finanzas con facilidad – ¡es gratis!"
+    },
+    "benefits": {
+      "title": "Principales Beneficios",
+      "paragraph": "Gestiona tus finanzas de manera fácil, inteligente y segura. Descubre todo lo que nuestra herramienta puede hacer por ti.",
+      "card": {
+        "planning": {
+          "title": "Planificación inteligente",
+          "description": "Metas personalizadas y seguimiento en tiempo real."
+        },
+        "control": {
+          "title": "Control de gastos",
+          "description": "Categoriza gastos y recibe alertas para evitar excesos."
+        },
+        "investment": {
+          "title": "Inversiones integradas",
+          "description": "Informa tus inversiones y recibe actualizaciones al instante."
+        },
+        "budget": {
+          "title": "Presupuesto inteligente",
+          "description": "Planifica tus finanzas con ajustes automáticos basados en IA."
+        },
+        "gaming": {
+          "title": "Gamificación",
+          "description": "Convierte tus metas financieras en desafíos y gana recompensas."
+        },
+        "alert": {
+          "title": "Notificaciones y alertas",
+          "description": "Nunca más pierdas un plazo o superes tus límites de gasto."
+        }
+      }
     }
   }
 }

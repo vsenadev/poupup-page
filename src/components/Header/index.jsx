@@ -8,7 +8,7 @@ import Button from "@/components/Button";
 export default function Header(){
 
     return (
-        <div className={styles.container}>
+        <header className={styles.container}>
             <div className={styles.container__header}>
                 <div className={styles.container__header_image}>
                     <Image
@@ -20,6 +20,7 @@ export default function Header(){
                 <div className={styles.container__header_title}>
                     <Title
                         title={'header.title'}
+                        color={'#000'}
                     />
                 </div>
                 <div className={styles.container__header_button}>
@@ -28,6 +29,6 @@ export default function Header(){
                     />
                 </div>
             </div>
-        </div>
+        </header>
     )
 }
