@@ -33,6 +33,39 @@
           "description": "Nunca mais perca um prazo ou ultrapasse seus limites de gastos."
         }
       }
+    },
+    "tools": {
+      "title": "Como é a ferramenta",
+      "description": "O PoupUp, ajuda você a organizar suas finanças, evitar gastos excessivos e alcançar suas metas de forma fácil. \nCom inteligência artificial e recursos personalizados, simplificamos o controle financeiro para indivíduos, famílias e pequenos negócios.",
+      "tool": {
+        "title": "Orçamentos inteligentes",
+        "description": "Planeje e ajuste suas finanças em tempo real.",
+        "title1": "Controle de despesas",
+        "description1": "Categorize gastos e receba alertas para evitar excessos.",
+        "title2": "Investimentos integrados",
+        "description2": "Monitore sua carteira e rebalanceie automaticamente.",
+        "title3": "Gestão via WhatsApp",
+        "description3": "Registre despesas e acesse insights direto no whatsapp.",
+        "title4": "Metas e recompensas",
+        "description4": "Metas e recompensas: Transforme seus objetivos financeiros em desafios divertidos."
+      },
+      "differences": {
+        "title": "Porque somos diferentes ?",
+        "tool": {
+          "title": "IA Personalizada",
+          "description": "Sugestões e previsões adaptadas ao seu perfil.",
+          "title1": "Gamificação",
+          "description1": "Torne o controle financeiro motivador.",
+          "title2": "Integração completa",
+          "description2": "Conecte suas finanças em um só lugar."
+        }
+      },
+      "for": {
+        "title": "Para quem é ?",
+        "description": "Quem quer organizar suas finanças pessoais.",
+        "description1": "Famílias e casais com despesas compartilhadas.",
+        "description2": "Freelancers e pequenos negócios."
+      }
     }
   },
   "en": {
@@ -68,8 +101,40 @@
           "title": "Notifications and alerts",
           "description": "Never miss a deadline or exceed your spending limits."
         }
-
       }
+    },
+    "tools": {
+      "title": "How the tool works",
+      "description": "PoupUp helps you organize your finances, avoid overspending, and achieve your goals effortlessly. \nWith artificial intelligence and personalized features, we simplify financial management for individuals, families, and small businesses.",
+      "tool": {
+        "title": "Smart budgets",
+        "description": "Plan and adjust your finances in real time.",
+        "title1": "Expense tracking",
+        "description1": "Categorize expenses and receive alerts to avoid overspending.",
+        "title2": "Integrated investments",
+        "description2": "Monitor your portfolio and rebalance automatically.",
+        "title3": "WhatsApp management",
+        "description3": "Log expenses and access insights directly on WhatsApp.",
+        "title4": "Goals and rewards",
+        "description4": "Turn your financial goals into fun challenges."
+      },
+      "differences": {
+        "title": "Why are we different?",
+        "tool": {
+          "title": "Personalized AI",
+          "description": "Suggestions and predictions tailored to your profile.",
+          "title1": "Gamification",
+          "description1": "Make financial management motivating.",
+          "title2": "Full integration",
+          "description2": "Connect all your finances in one place."
+        }
+      }
+    },
+    "for": {
+      "title": "Who is it for?",
+      "description": "For those who want to organize their personal finances.",
+      "description1": "Families and couples with shared expenses.",
+      "description2": "Freelancers and small businesses."
     }
   },
   "es": {
@@ -105,6 +170,39 @@
           "title": "Notificaciones y alertas",
           "description": "Nunca más pierdas un plazo o superes tus límites de gasto."
         }
+      }
+    },
+    "tools": {
+      "title": "Cómo es la herramienta",
+      "description": "PoupUp te ayuda a organizar tus finanzas, evitar gastos excesivos y alcanzar tus metas de forma sencilla. \nCon inteligencia artificial y funciones personalizadas, simplificamos el control financiero para individuos, familias y pequeños negocios.",
+      "tool": {
+        "title": "Presupuestos inteligentes",
+        "description": "Planifica y ajusta tus finanzas en tiempo real.",
+        "title1": "Control de gastos",
+        "description1": "Categoriza gastos y recibe alertas para evitar excesos.",
+        "title2": "Inversiones integradas",
+        "description2": "Monitorea tu cartera y rebalancea automáticamente.",
+        "title3": "Gestión vía WhatsApp",
+        "description3": "Registra gastos y accede a información directamente en WhatsApp.",
+        "title4": "Metas y recompensas",
+        "description4": "Convierte tus objetivos financieros en desafíos divertidos."
+      },
+      "differences": {
+        "title": "¿Por qué somos diferentes?",
+        "tool": {
+          "title": "IA Personalizada",
+          "description": "Sugerencias y predicciones adaptadas a tu perfil.",
+          "title1": "Gamificación",
+          "description1": "Haz que el control financiero sea motivador.",
+          "title2": "Integración completa",
+          "description2": "Conecta tus finanzas en un solo lugar."
+        }
+      },
+      "for": {
+        "title": "¿Para quién es?",
+        "description": "Para quienes desean organizar sus finanzas personales.",
+        "description1": "Familias y parejas con gastos compartidos.",
+        "description2": "Freelancers y pequeños negocios."
       }
     }
   }

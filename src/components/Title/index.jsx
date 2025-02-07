@@ -4,7 +4,7 @@ import styles from './Title.module.sass';
 import { useGlobalState } from "@/context/globalState";
 import { getNestedValue } from "@/functions/home.functions";
 
-export default function Title({ title, color, fontSize }) {
+export default function Title({ title, color, fontSize, textAlign }) {
     const { language, text } = useGlobalState();
 
     const heading = title && text?.[language]
@@ -13,7 +13,7 @@ export default function Title({ title, color, fontSize }) {
 
     return (
         <div className={styles.container}>
-            <h1 style={{color: color, fontSize: fontSize}} className={styles.container__title}>{heading}</h1>
+            <h1 style={{color: color, fontSize: fontSize, textAlign: textAlign}} className={styles.container__title}>{heading}</h1>
         </div>
     );
 }

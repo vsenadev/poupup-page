@@ -1,10 +1,10 @@
 'use client';
 
-import styles from './Paragraph.module.sass';
+import styles from './StrongText.module.sass';
 import { useGlobalState } from "@/context/globalState";
 import { getNestedValue } from "@/functions/home.functions";
 
-export default function Paragraph({ content, color, textAlign }) {
+export default function StrongText({ content, color }) {
     const { language, text } = useGlobalState();
 
     const paragraph = content && text?.[language]
@@ -13,7 +13,7 @@ export default function Paragraph({ content, color, textAlign }) {
 
     return (
         <div className={styles.container}>
-            <p style={{color: color, textAlign: textAlign}} className={styles.container__content}>{paragraph}</p>
+            <strong style={{color: color}} className={styles.container__content}>{paragraph}</strong>
         </div>
     );
 }
