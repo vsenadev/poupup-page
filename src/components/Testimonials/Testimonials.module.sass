@@ -17,6 +17,7 @@
     align-items: center
     justify-content: center
     padding: 2rem 0
+    gap: 2rem
 
     @media (max-width: 720px)
       flex-wrap: wrap
@@ -24,8 +25,10 @@
     &_card
       color: vars.$white
       font-family: vars.$font
-      width: 30%
-      height: 200px
+      width: 25%
+      height: 250px
+      max-height: 250px
+      overflow-y: auto
       border-radius: 6px
       background-image: linear-gradient(to right top, #3c3c3c, #383c43, #2b3e48, #164147, #06433d)
 
@@ -59,3 +62,8 @@
           justify-content: center
           flex-direction: column
           gap: 0.5rem
+          font-weight: 700
+
+      &_text
+        line-height: 1.2rem
+        padding: 1rem 1rem 0 1rem
