@@ -26,7 +26,7 @@ export default function Testimonials() {
                             </div>
                         </div>
                         <div className={styles.container__testimonials_card_user_info}>
-                            <h3>Bento Silva</h3>
+                            <span>Bento Silva</span>
                             <p>30/01/2025</p>
                         </div>
                     </div>
@@ -42,7 +42,7 @@ export default function Testimonials() {
                             </div>
                         </div>
                         <div className={styles.container__testimonials_card_user_info}>
-                            <h3>Bento Silva</h3>
+                            <span>Bento Silva</span>
                             <p>30/01/2025</p>
                         </div>
                     </div>
@@ -58,7 +58,7 @@ export default function Testimonials() {
                             </div>
                         </div>
                         <div className={styles.container__testimonials_card_user_info}>
-                            <h3>Bento Silva</h3>
+                            <span>Bento Silva</span>
                             <p>30/01/2025</p>
                         </div>
                     </div>
