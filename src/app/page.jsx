@@ -2,6 +2,7 @@ import styles from "../styles/page.module.sass";
 import Header from "@/components/Header";
 import Benefits from "@/components/Benefits";
 import Tool from "@/components/Tool";
+import Testimonials from "@/components/Testimonials";
 
 export default function Home() {
   return (
@@ -9,6 +10,7 @@ export default function Home() {
       <Header />
       <Benefits/>
       <Tool/>
+      <Testimonials/>
     </main>
   );
 }

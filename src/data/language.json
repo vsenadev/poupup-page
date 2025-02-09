@@ -66,6 +66,10 @@
         "description1": "Famílias e casais com despesas compartilhadas.",
         "description2": "Freelancers e pequenos negócios."
       }
+    },
+    "testimonials": {
+      "title": "Depoimentos",
+      "description": "O que nossos usuários estão dizendo:"
     }
   },
   "en": {
@@ -128,13 +132,17 @@
           "title2": "Full integration",
           "description2": "Connect all your finances in one place."
         }
+      },
+      "for": {
+        "title": "Who is it for?",
+        "description": "For those who want to organize their personal finances.",
+        "description1": "Families and couples with shared expenses.",
+        "description2": "Freelancers and small businesses."
       }
     },
-    "for": {
-      "title": "Who is it for?",
-      "description": "For those who want to organize their personal finances.",
-      "description1": "Families and couples with shared expenses.",
-      "description2": "Freelancers and small businesses."
+    "testimonials": {
+      "title": "Testimonials",
+      "description": "What our users are saying:"
     }
   },
   "es": {
@@ -204,6 +212,10 @@
         "description1": "Familias y parejas con gastos compartidos.",
         "description2": "Freelancers y pequeños negocios."
       }
+    },
+    "testimonials": {
+      "title": "Testimonios",
+      "description": "Lo que dicen nuestros usuarios:"
     }
   }
 }
