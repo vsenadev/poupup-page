@@ -70,6 +70,9 @@
     "testimonials": {
       "title": "Depoimentos",
       "description": "O que nossos usuários estão dizendo:"
+    },
+    "faq": {
+      "title": "Perguntas frequentes"
     }
   },
   "en": {
@@ -143,7 +146,11 @@
     "testimonials": {
       "title": "Testimonials",
       "description": "What our users are saying:"
+    },
+    "faq": {
+      "title": "Frequently Asked Questions"
     }
+
   },
   "es": {
     "header": {
@@ -216,6 +223,9 @@
     "testimonials": {
       "title": "Testimonios",
       "description": "Lo que dicen nuestros usuarios:"
+    },
+    "faq": {
+      "title": "Preguntas frecuentes"
     }
   }
 }
